@@ -1,0 +1,163 @@
+.header{
+    background: #4a18ac;
+    width: 100%;
+    height: 85px;
+
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+.logo{
+    width:50%;
+    padding-top: 20px;
+    float:left;
+}
+.login{
+    width:50%;
+    float:left;
+}
+.logo-text{
+    color:#fff;
+    font-size:35px;
+    font-weight:bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+ 
+}
+.login-label{
+    color:#fff;
+    font-size: 14px;
+   padding-left: 40px;
+}
+.frgt{
+    font-size: 11px;
+    color:#b193ea;
+    text-decoration: none;
+    margin-left: 10px;
+
+}
+.login-controls{
+    margin-left: 180px;
+    margin-top: 10px;
+}
+.sub-btn{
+    background: #5b10ec;
+    color: #fff;
+    height: 20px;
+   cursor: pointer;
+    border-color:#5600ff;
+    margin-left: 8px;
+}
+.label{
+    margin-left: 10px;
+}
+.sub-btn:hover{
+   background:rgb(1, 224, 1);
+}
+.frgt:hover{
+    color: #fff;;
+    font-size: 15px;
+}
+.bd1{
+    width: 50%;
+    float: left;
+   
+}
+.bd2{
+    width: 50%;
+    float: left;
+   
+ 
+}
+.body-main{
+    background: linear-gradient(white,#D3D8E8);
+    width:100%;
+    height:555px;
+}
+.para{
+    font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    margin-left: 170px;
+    color: #020282;
+}
+.img{
+    width: 400px;
+    height:300px;
+    margin-left: 170px;
+    margin-top: 50px;
+    float: left;
+}
+.h1{
+   
+    margin-left: 150px;
+}
+
+
+.h4{
+    margin-top: -16px;
+    margin-left: 154px;
+}
+.MN-EA{
+    width: 337px;
+    margin-left: 150px;
+    margin-top: 10px;
+    height: 25px;
+    border-radius: 5px;
+
+}
+.tr-td1{
+    margin-left: 147px;
+    padding-left: 2px;
+    height: 25px;
+    border-radius: 5px;
+}
+.tr-td2{
+    padding-left: 3px;
+    margin-left: 5px;
+    height: 25px;
+    border-radius: 5px;
+}
+.birthday{
+    padding-left: 150px;
+    margin-top: 15px;
+    color: #81858a;
+}
+.day{
+   margin-left: 150px;
+}
+.gender{
+  margin-left: 150px;
+}
+.paragraph{
+    margin-left: 150px;
+    font-size: 11px;
+    margin-top: 30px;
+}
+.signup{
+    width: 175px;
+    height: 35px;
+    margin-left: 150px;
+    margin-top: 15px;
+    border-radius: 4px;
+    background: #10a810;
+    border: none;
+    font-size: 18px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+
+}
+.signup:hover{
+  background: rgb(10, 180, 10);
+}
+.para-create{
+    text-decoration: none;
+    margin-left: 150px;
+}
+.para-create:hover{
+    color: blue;
+
+}
